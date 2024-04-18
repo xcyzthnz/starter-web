@@ -12,10 +12,8 @@ again and again and again again and again and again again and again and again ag
 description
 
 
-2024git.training
-
-
-
-
 
 Please fork this repository and then issue Pull request for review.
+
+###COPYRIGHT 
+2024git.training. all right reserve
